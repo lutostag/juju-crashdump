@@ -18,6 +18,5 @@ parts:
     python-version: python2
     stage-packages:
       - python-apport 
-    python-packages:
-      - pyyaml
+      - python-yaml
     source: .
